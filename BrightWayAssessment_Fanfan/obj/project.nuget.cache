@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DEdEMTrzfECXSeYYyXiAIx19/z8XhvoS+t2ZI3eCSZ95Im2icLSLtpj1SuElGuvpgVhI6R/fzRFtM9aFtVXXwQ==",
+  "success": true,
+  "projectFilePath": "/Users/trigonoah/Projects/BrightWayAssessment_Fanfan/BrightWayAssessment_Fanfan/BrightWayAssessment_Fanfan.csproj",
+  "expectedPackageFiles": [
+    "/Users/trigonoah/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
